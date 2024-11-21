@@ -203,9 +203,3 @@ Feel free to reach out if you have questions or suggestions!
 
 - **Email**: tharunds84@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tharun-d-s-a2a3b5253/)
-
-```
-
----
-
-```
