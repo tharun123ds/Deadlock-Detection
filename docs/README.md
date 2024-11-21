@@ -1,5 +1,3 @@
-### **`README.md`**
-
 ```markdown
 # Deadlock-Detection System
 
@@ -155,7 +153,6 @@ Run these tests using the `make run` command after building the project.
 
 ---
 
-````markdown
 ## 🖥️ Contribution
 
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository, create a new branch, and submit a pull request.
@@ -167,10 +164,10 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 2. **Create a feature branch**  
    After forking the repository, open your terminal and navigate to your local copy of the repository. Create a new branch for your feature or fix:
+
    ```bash
    git checkout -b feature-name
    ```
-````
 
 3. **Make your changes**  
    Edit the code as needed to add your feature or fix an issue.
@@ -206,3 +203,9 @@ Feel free to reach out if you have questions or suggestions!
 
 - **Email**: tharunds84@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tharun-d-s-a2a3b5253/)
+
+```
+
+---
+
+```
